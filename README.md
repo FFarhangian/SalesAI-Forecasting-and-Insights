@@ -19,7 +19,5 @@ This project presents a complete data science solution to forecast store-level s
 ---
 
 Run This Notebook
-You can open and run the notebook directly in Google Colab:
-
-([Google Colab](https://colab.research.google.com/drive/1WQy5WMI9WAxwR1dsBw03jtKbWGX74W0F?usp=sharing)
+You can open and run the notebook directly in [Google Colab](https://colab.research.google.com/drive/1WQy5WMI9WAxwR1dsBw03jtKbWGX74W0F?usp=sharing)
 
