@@ -13,4 +13,4 @@ This project presents a complete data science solution to forecast store-level s
 
 ## Demo Video
 
-![Demo](Demo.mp4)
+![Demo](Demo.gif)
