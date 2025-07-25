@@ -11,4 +11,6 @@ This project presents a complete data science solution to forecast store-level s
 - Extract insights at order, product, and customer levels.
 - Integrate Generative AI to allow natural language interaction with the model.
 
+## Demo Video
 
+![Demo](MoovAI.gif)
